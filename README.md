@@ -1,4 +1,4 @@
-# 🧪 Machine Learning Techniques — Lab Experiments
+# Machine Learning Techniques — Lab Experiments
 
 ---
 
