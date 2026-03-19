@@ -1,5 +1,5 @@
 # 🧪 Machine Learning Techniques — Lab Experiments
-### Roll No: 2307511530027 | Branch: MLT
+### Course: MLT | Branch: Data Science / AI
 
 ---
 
@@ -8,15 +8,6 @@
 This repository contains all the **Lab Experiments and Task Submissions** for the **Machine Learning Techniques (MLT)** course. Each notebook covers a different ML concept — from data preprocessing and visualization to classification, regression, clustering, and time series analysis.
 
 ---
-
-## 👩‍💻 Student Details
-
-| Field        | Details                          |
-|--------------|----------------------------------|
-| **Name**     | Jaya Shukla                      |
-| **Roll No.** | 2307511530027                    |
-| **Course**   | Machine Learning Techniques      |
-| **GitHub**   | [shuklajaya337](https://github.com/shuklajaya337) |
 
 ---
 
@@ -130,13 +121,6 @@ Click the badge below to open notebooks directly in Google Colab:
 - ✅ Feature Engineering & Selection
 
 ---
-
-## 📬 Contact
-
-Feel free to reach out for queries or collaboration:
-
-- 📧 **Email**: shuklajaya337@gmail.com
-- 🐙 **GitHub**: [@shuklajaya337](https://github.com/shuklajaya337)
 
 ---
 
