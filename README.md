@@ -1,5 +1,4 @@
 # 🧪 Machine Learning Techniques — Lab Experiments
-### Course: MLT | Branch: Data Science / AI
 
 ---
 
@@ -127,4 +126,4 @@ Click the badge below to open notebooks directly in Google Colab:
 > ⭐ If this repository helped you, consider giving it a star!
 
 ---
-*Submitted as part of the MLT Lab coursework — Academic Year 2024–25*
+*Submitted as part of the MLT Lab coursework — Academic Year 2025–26*
